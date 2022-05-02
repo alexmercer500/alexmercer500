@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ratnesh
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning CSS and JavaScript
+- 🌱 I’m currently learning JavaScript & React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
